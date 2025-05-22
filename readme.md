@@ -7,7 +7,7 @@ Author: <a href="https://www.linkedin.com/in/bldevries/" target="_blank">BL de V
 <img src="images/blackhole_banner.gif" alt="" width="720" height="auto">
 </div>
 <div align="center">
-<sub><sup>A star-like object (textured mesh in Blender) in orbit around a Schwarzschild black hole</sup></sub>
+<sub><sup>A Schwarzschild black hole moving sideways, warping a skydome image of stars as it goes</sup></sub>
 </div>
 
 
